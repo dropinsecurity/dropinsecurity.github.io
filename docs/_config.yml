@@ -28,7 +28,8 @@ twitter_username: dropinsecurityJ
 github_username:  dropinsecurity
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
+
 plugins:
   - jekyll-feed
 
