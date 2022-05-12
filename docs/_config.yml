@@ -28,7 +28,7 @@ twitter_username: dropinsecurityJ
 github_username:  dropinsecurity
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
